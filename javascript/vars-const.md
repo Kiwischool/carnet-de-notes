@@ -1,0 +1,1 @@
+# JAVASCRIPT | Variables et constantes
